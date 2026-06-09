@@ -1,6 +1,5 @@
-<body bgcolor="0D1B2A">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D5F,100:1A5F7A&height=220&section=header&text=sky-十二&fontSize=48&fontColor=D4F1F9&animation=twinkling&fontAlignY=40" width="100%"/>
+<!-- 顶部波浪 - 蓝调时刻配色 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D5F,100:1A5F7A&height=200&section=header&text=sky-十二&fontSize=45&fontColor=D4F1F9&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <!-- 动态打字效果 -->
 <div align="center">
@@ -17,44 +16,50 @@
 
 <div align="center">
   
+<!-- 基础徽章 - 使用 shields.io 官方服务 -->
 <img src="https://img.shields.io/github/followers/skyIshier?style=for-the-badge&logo=github&label=Followers&color=1A5F7A" /> 
 <img src="https://img.shields.io/github/stars/skyIshier?style=for-the-badge&logo=apachespark&label=Stars&color=0B3D5F" /> 
 <img src="https://komarev.com/ghpvc/?username=skyIshier&label=Profile+Views&color=1A5F7A&style=for-the-badge" />
-<img src="https://img.shields.io/badge/dynamic/json?color=1A5F7A&label=Total%20Commits&query=total_commits&url=https://gist.githubusercontent.com/skyIshier/xxxxx/raw/gistfile1.txt&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 统计概览
+### 统计概览
 
 <div align="center">
 
-| 左侧 | 右侧 |
+| 综合数据看板 | 连续贡献记录 |
 |:---:|:---:|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9" width="420" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=skyIshier&theme=blueberry_duo&hide_border=true&background=0D1B2A&stroke=5F9EA0&ring=1A5F7A&fire=7FB4BE&currStreakNum=D4F1F9&sideNums=D4F1F9&currStreakLabel=5F9EA0&sideLabels=5F9EA0&dates=B0D9E3" width="420" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=skyIshier&show_icons=true&theme=react&bg_color=0D1B2A&title_color=5F9EA0&icon_color=1A5F7A&text_color=D4F1F9&hide_border=true&count_private=true" width="420" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=skyIshier&theme=blueberry_duo&hide_border=true&background=0D1B2A&stroke=5F9EA0&ring=1A5F7A&fire=7FB4BE&currStreakNum=D4F1F9&sideNums=D4F1F9&currStreakLabel=5F9EA0&sideLabels=5F9EA0&dates=B0D9E3" width="420" /> |
 
 </div>
 
 ---
 
-## 数据面板
+### 数据面板
 
 <div align="center">
-
-| GitHub 综合统计 | 编码活跃时段 |
-|:---:|:---:|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9&utcOffset=8" /> |
 
 | 仓库语言占比 | 提交语言占比 |
 |:---:|:---:|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyIshier&layout=compact&theme=react&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9&hide_border=true&langs_count=8" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9" /> |
 
 </div>
 
 ---
 
-## 年度贡献热力图
+### 活动分析
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skyIshier&theme=react-dark&bg_color=0D1B2A&hide_border=true&area=true&area_color=0B3D5F&line=5F9EA0&point=1A5F7A&color=D4F1F9" width="95%" alt="活动曲线图" />
+
+</div>
+
+---
+
+### 年度贡献全景
 
 <div align="center">
   
@@ -64,17 +69,17 @@
 
 ---
 
-## GitHub 奖杯墙
+### LeetCode 刷题数据
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=skyIshier&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://leetcard.jacoblin.cool/skyIshier?theme=dark&font=Baloo_2&animation=true&hide=ranking" alt="LeetCode Stats" />
 
 </div>
 
 ---
 
-## 技术栈
+### 技术栈
 
 <div align="center">
   
@@ -89,24 +94,7 @@
 
 ---
 
-## 开发活动摘要
-
-<div align="center">
-  
-| 指标 | 数据 |
-|:---:|:---:|
-| 总提交数 | <img src="https://img.shields.io/badge/Commits-XXX-1A5F7A?style=for-the-badge" /> |
-| 仓库总数 | <img src="https://img.shields.io/badge/Repositories-10-1A5F7A?style=for-the-badge" /> |
-| 已获得星标 | <img src="https://img.shields.io/github/stars/skyIshier?style=for-the-badge&logo=github&color=0B3D5F" /> |
-| 关注者 | <img src="https://img.shields.io/github/followers/skyIshier?style=for-the-badge&logo=github&color=1A5F7A" /> |
-| 代码提交次数 | <img src="https://img.shields.io/badge/Code%20Commits-XXX-0B3D5F?style=for-the-badge" /> |
-| 仓库访问量 | <img src="https://img.shields.io/badge/Repo%20Views-XXX-1A5F7A?style=for-the-badge" /> |
-
-</div>
-
----
-
-## 访客与更新
+### 访客与更新
 
 <div align="center">
   
@@ -118,6 +106,5 @@
 
 </div>
 
+<!-- 底部波浪 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5F7A,100:0B3D5F&height=120&section=footer" width="100%"/>
-
-</body>
