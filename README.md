@@ -1,5 +1,5 @@
 <!-- 顶部：深蓝到亮蓝的渐变波浪，模拟“蓝调时刻” -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sky%20Shi%20Er&fontSize=45&fontColor=f0f8ff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=skyIshier&fontSize=45&fontColor=f0f8ff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <div align="center">
   
