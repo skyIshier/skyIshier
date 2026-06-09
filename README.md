@@ -1,60 +1,46 @@
-<!-- 顶部动态渐变波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sky%E5%8D%81%E4%BA%8C&fontSize=55&fontAlignY=38&animation=fadeIn&desc=skyIshier&descAlignY=55" width="100%"/>
+<!-- 顶部蓝色横幅装饰 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2B5B,100:1A4A7A&height=180&section=header&text=Sky%E5%8D%81%E4%BA%8C&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+</div>
 
-<!-- 动态徽章区域（实时获取数据） -->
+<!-- 个人简介 -->
 <div align="center">
   
-  <!-- 粉丝数动态获取 -->
-  ![GitHub Followers](https://img.shields.io/github/followers/skyIshier?style=for-the-badge&logo=github&label=FANS&color=6f42c1)
-  
-  <!-- 总星星数动态获取 -->
-  ![GitHub Stars](https://img.shields.io/github/stars/skyIshier?style=for-the-badge&logo=apachespark&label=STARS&color=ff69b4)
-  
-  <!-- 关注人数动态获取 -->
-  ![GitHub Following](https://img.shields.io/github/following/skyIshier?style=for-the-badge&logo=github&label=FOLLOWING&color=4c9f38)
-  
-  <!-- 仓库数量动态获取 -->
-  ![GitHub Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=REPOS&color=0d8fce&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FskyIshier)
-  
-  <!-- 账号创建年限动态获取 -->
-  ![GitHub Account Age](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=JOIN&color=orange&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FskyIshier)
+## 🌌 关于我 · 蓝调时刻 🌌
+
+**✨ 逆向工程 & 游戏数据探索 ✨**  
+**🐍 Python | 🛠️ 工具开发 | ☁️ 天空王国研究员**
 
 </div>
 
-<br/>
-
-<!-- 主要统计卡片（完全动态，不暴露项目名） -->
+<!-- 数据统计面板（5合1卡片组） -->
 <div align="center">
   
-### 📈 GitHub 完整数据看板
+### 📈 GitHub 完整数据洞察
 
-<!-- 核心统计 + 语言分布 并排 -->
-<table align="center">
+<!-- 核心五卡：统计总览、语言、提交日历、星标仓库、活跃时间 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyIshier&theme=github_dark" width="100%" alt="Profile Details"/>
+
+<br/>
+
+<table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=skyIshier&show_icons=true&count_private=true&theme=omni&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=6f42c1&text_color=c9d1d9&include_all_commits=true"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyIshier&layout=compact&theme=omni&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9&langs_count=10&hide=html,css"/>
-    </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skyIshier&theme=github_dark" alt="Top Langs by Repo"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyIshier&theme=github_dark" alt="Top Langs by Commit"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skyIshier&theme=github_dark" alt="Stats"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skyIshier&theme=github_dark&utcOffset=8" alt="Productive Time"/></td>
   </tr>
 </table>
 
 <!-- 连续提交记录 -->
 <br/>
-<img src="https://streak-stats.demolab.com?user=skyIshier&theme=omni&hide_border=true&background=0d1117&stroke=6f42c1&ring=ff69b4&fire=ff69b4&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffb6c1" alt="GitHub Streak"/>
-
-<br/>
-
-<!-- 贡献日历（年度热力图） -->
-<img src="https://ghchart.rshah.org/skyIshier" alt="Contribution Calendar" width="90%"/>
-
-<br/>
-
-<!-- 长期活动曲线 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skyIshier&theme=omni&hide_border=true&bg_color=0d1117&color=c9d1d9&line=6f42c1&point=ff69b4&area=true&area_color=6f42c1&radius=8" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=skyIshier&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1A4A7A&fire=0B2B5B&currStreakLabel=4A90E2" alt="GitHub Streak"/>
 
 </div>
 
-<!-- 底部渐变波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+<!-- 底部蓝色横幅 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4A7A,100:0B2B5B&height=120&section=footer"/>
+</div>
