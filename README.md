@@ -1,10 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:3A6D8C&height=200&section=header&text=sky-十二&fontSize=45&fontColor=E0F2FE&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D5F,100:1A5F7A&height=200&section=header&text=sky-十二&fontSize=45&fontColor=D4F1F9&animation=twinkling&fontAlignY=40&desc=Data%20Analytics%20%7C%20Reverse%20Engineering&descAlignY=55" width="100%"/>
 
 <div align="center">
   
-### 数据分析工程师 | 逆向工程爱好者
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=5F9EA0&center=true&vCenter=true&width=500&lines=数据分析工程师;逆向工程爱好者;二进制分析;游戏资源研究">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=5F9EA0&center=true&vCenter=true&width=500&lines=数据分析工程师;逆向工程爱好者;二进制分析;游戏资源研究">
+  </picture>
+
 </div>
+
+<br/>
 
 <div align="center">
   
@@ -12,55 +17,75 @@
 
 </div>
 
-<div align="center">
-  
-<img src="https://img.shields.io/github/followers/skyIshier?style=for-the-badge&logo=github&label=Followers&color=3A6D8C" /> 
-<img src="https://img.shields.io/github/stars/skyIshier?style=for-the-badge&logo=apachespark&label=Stars&color=1E3A5F" /> 
-<img src="https://komarev.com/ghpvc/?username=skyIshier&label=Profile+Views&color=3A6D8C&style=for-the-badge" />
-
-</div>
-
----
-
-### 📊 统计概览
-
-<div align="center">
-
-| 综合数据看板 | 连续贡献记录 |
-| :---: | :---: |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5A9BB5&text_color=E0F2FE" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=skyIshier&theme=blue-navy&hide_border=true&background=0D1B2A&stroke=5A9BB5&ring=3A6D8C&fire=7AB7C9&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=5A9BB5&sideLabels=5A9BB5&dates=B0D9E3" width="400" /> |
-
-</div>
-
----
-
-### 📈 核心数据面板
-
-<div align="center">
-
-| GitHub 综合统计 | 编码活跃时段 |
-| :---: | :---: |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5A9BB5&text_color=E0F2FE" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5A9BB5&text_color=E0F2FE&utcOffset=8" /> |
-
-| 仓库语言占比 | 提交语言占比 |
-| :---: | :---: |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5A9BB5&text_color=E0F2FE" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5A9BB5&text_color=E0F2FE" /> |
-
-</div>
-
----
-
-### 📅 年度贡献热力图
+<br/>
 
 <div align="center">
   
-<img src="https://ghchart.rshah.org/skyIshier" alt="贡献热力图" width="90%" />
+<img src="https://img.shields.io/github/followers/skyIshier?style=for-the-badge&logo=github&label=Followers&color=1A5F7A&logoColor=white" /> 
+<img src="https://img.shields.io/github/stars/skyIshier?style=for-the-badge&logo=apachespark&label=Stars&color=0B3D5F&logoColor=white" /> 
+<img src="https://komarev.com/ghpvc/?username=skyIshier&label=Profile+Views&color=1A5F7A&style=for-the-badge" />
 
 </div>
 
+<br/>
+
 ---
 
-### 🧰 技术栈
+### 统计总览
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=5F9EA0&text_color=D4F1F9&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=skyIshier&theme=dark&hide_border=true&background=0d1117&stroke=5F9EA0&ring=1A5F7A&fire=5F9EA0&currStreakNum=D4F1F9&sideNums=D4F1F9&currStreakLabel=5F9EA0&sideLabels=5F9EA0&dates=7FB4BE" />
+    </td>
+   </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+### 数据面板
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=5F9EA0&text_color=D4F1F9&hide_border=true" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=5F9EA0&text_color=D4F1F9&hide_border=true&utcOffset=8" /></td>
+   </tr>
+   <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=5F9EA0&text_color=D4F1F9&hide_border=true" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=5F9EA0&text_color=D4F1F9&hide_border=true" /></td>
+   </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+### 年度贡献热力图
+
+<div align="center">
+  
+<img src="https://ghchart.rshah.org/skyIshier" alt="贡献热力图" width="95%" />
+
+</div>
+
+<br/>
+
+---
+
+### 技术栈
 
 <div align="center">
   
@@ -73,16 +98,35 @@
 
 </div>
 
+<br/>
+
 ---
 
-### ℹ️ 访客与更新
+### 开发活动摘要
 
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=skyIshier&label=Profile%20Views&color=3A6D8C&style=flat-square" />
-
-<img src="https://img.shields.io/badge/last%20updated-2026--06--09-5A9BB5?style=flat-square" />
+| 指标 | 数值 |
+|:----:|:----:|
+| 总仓库 | 10 |
+| 关注者 | 2 |
+| 正在关注 | 9 |
+| 获得的星标 | 32 |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6D8C,100:1E3A5F&height=120&section=footer" width="100%"/>
+<br/>
+
+---
+
+### 访客与更新
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=skyIshier&label=Profile%20Views&color=1A5F7A&style=flat-square" />
+
+<img src="https://img.shields.io/badge/last%20updated-2026--06--09-5F9EA0?style=flat-square" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5F7A,100:0B3D5F&height=120&section=footer" width="100%"/>
