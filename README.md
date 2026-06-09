@@ -1,46 +1,62 @@
-<!-- 顶部蓝色横幅装饰 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2B5B,100:1A4A7A&height=180&section=header&text=Sky%E5%8D%81%E4%BA%8C&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
-</div>
+<!-- 顶部蓝色渐变波浪：颜色从深蓝到天蓝，模拟蓝调时刻 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:1e90ff&height=200&section=header&text=Sky%E5%8D%81%E4%BA%8C&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- 个人简介 -->
+<!-- 技术标签徽章区域（使用蓝色系） -->
 <div align="center">
   
-## 🌌 关于我 · 蓝调时刻 🌌
+  [![GitHub followers](https://img.shields.io/github/followers/skyIshier?style=for-the-badge&logo=github&labelColor=0b3d91&color=1e90ff)](https://github.com/skyIshier)
+  [![GitHub User's stars](https://img.shields.io/github/stars/skyIshier?style=for-the-badge&logo=apachespark&labelColor=0b3d91&color=1e90ff)](https://github.com/skyIshier)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/skyIshier/skyIshier?style=for-the-badge&logo=git&labelColor=0b3d91&color=1e90ff)](https://github.com/skyIshier)
+  
+</div>
 
-**✨ 逆向工程 & 游戏数据探索 ✨**  
-**🐍 Python | 🛠️ 工具开发 | ☁️ 天空王国研究员**
+<!-- 个人简介区域：无Emoji，纯文字 -->
+<div align="center">
+  
+## · 关 于 我 ·
+  
+**逆向工程爱好者** | **游戏资源技术研究** | **Python 工具开发** | **数据探索者**
 
 </div>
 
-<!-- 数据统计面板（5合1卡片组） -->
+<!-- 最全面的数据统计卡片组 -->
 <div align="center">
   
-### 📈 GitHub 完整数据洞察
-
-<!-- 核心五卡：统计总览、语言、提交日历、星标仓库、活跃时间 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyIshier&theme=github_dark" width="100%" alt="Profile Details"/>
-
-<br/>
-
-<table>
+### · GitHub 完 整 数 据 统 计 ·
+  
+<!-- 卡片组1：核心指标与语言占比 -->
+<table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skyIshier&theme=github_dark" alt="Top Langs by Repo"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyIshier&theme=github_dark" alt="Top Langs by Commit"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skyIshier&theme=github_dark" alt="Stats"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skyIshier&theme=github_dark&utcOffset=8" alt="Productive Time"/></td>
-  </tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=1e90ff&text_color=8ba3c7&icon_color=1e90ff" alt="详细统计"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=1e90ff&text_color=8ba3c7" alt="仓库语言分布"/>
+     </td>
+   </tr>
+   <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=1e90ff&text_color=8ba3c7" alt="提交语言占比"/>
+     </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=1e90ff&text_color=8ba3c7&icon_color=1e90ff" alt="通用统计"/>
+     </td>
+   </tr>
 </table>
 
-<!-- 连续提交记录 -->
+<!-- 卡片组2：时间线与提交记录 -->
 <br/>
-<img src="https://streak-stats.demolab.com/?user=skyIshier&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1A4A7A&fire=0B2B5B&currStreakLabel=4A90E2" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skyIshier&theme=github_dark&bg_color=0d1117&title_color=1e90ff&text_color=8ba3c7&icon_color=1e90ff&utcOffset=8" alt="活跃时间" width="49.2%"/>
+
+<!-- 连续提交记录（使用另一个稳定服务） -->
+<br/>
+<img src="https://streak-stats.demolab.com?user=skyIshier&theme=blueberry&hide_border=true&background=0d1117&stroke=1e90ff&ring=0b3d91&fire=00bfff&currStreakNum=8ba3c7&sideNums=8ba3c7&currStreakLabel=1e90ff&sideLabels=1e90ff&dates=4682b4" alt="连续提交记录" width="100%"/>
+
+<!-- 活动曲线图（尝试使用更稳定的国内镜像，如果仍无法显示可删除此行） -->
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skyIshier&theme=react-dark&bg_color=0d1117&hide_border=true&color=1e90ff&line=00bfff&point=4682b4&area=true&area_color=0b3d91" width="100%" alt="活动曲线图"/>
 
 </div>
 
-<!-- 底部蓝色横幅 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4A7A,100:0B2B5B&height=120&section=footer"/>
-</div>
+<!-- 底部蓝色渐变波浪 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:0b3d91&height=120&section=footer" width="100%"/>
