@@ -1,5 +1,8 @@
 <!-- 顶部波浪 - 蓝调时刻配色 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D5F,100:1A5F7A&height=200&section=header&text=sky-十二&fontSize=45&fontColor=D4F1F9&animation=twinkling&fontAlignY=40" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D5F,100:1A5F7A&height=200&section=header&text=sky-十二&fontSize=45&fontColor=D4F1F9&animation=twinkling&fontAlignY=40">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D5F,100:1A5F7A&height=200&section=header&text=sky-十二&fontSize=45&fontColor=0B3D5F&animation=twinkling&fontAlignY=40" width="100%"/>
+</picture>
 
 <!-- 动态打字效果 -->
 <div align="center">
@@ -31,7 +34,7 @@
 
 | 综合数据看板 | 连续贡献记录 |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=skyIshier&show_icons=true&theme=react&bg_color=0D1B2A&title_color=5F9EA0&icon_color=1A5F7A&text_color=D4F1F9&hide_border=true&count_private=true" width="420" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=skyIshier&theme=blueberry_duo&hide_border=true&background=0D1B2A&stroke=5F9EA0&ring=1A5F7A&fire=7FB4BE&currStreakNum=D4F1F9&sideNums=D4F1F9&currStreakLabel=5F9EA0&sideLabels=5F9EA0&dates=B0D9E3" width="420" /> |
+| <img src="https://gh-stats.com/api/skyIshier?show_icons=true&theme=react&bg_color=0D1B2A&title_color=5F9EA0&icon_color=1A5F7A&text_color=D4F1F9&hide_border=true" width="420" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=skyIshier&theme=blueberry_duo&hide_border=true&background=0D1B2A&stroke=5F9EA0&ring=1A5F7A&fire=7FB4BE&currStreakNum=D4F1F9&sideNums=D4F1F9&currStreakLabel=5F9EA0&sideLabels=5F9EA0&dates=B0D9E3" width="420" /> |
 
 </div>
 
@@ -43,7 +46,7 @@
 
 | 仓库语言占比 | 提交语言占比 |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyIshier&layout=compact&theme=react&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9&hide_border=true&langs_count=8" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9" /> |
+| <img src="https://gh-stats.com/api/top-langs/?username=skyIshier&layout=compact&theme=react&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9&hide_border=true&langs_count=8" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skyIshier&theme=github_dark&bg_color=0D1B2A&title_color=5F9EA0&text_color=D4F1F9" /> |
 
 </div>
 
@@ -64,16 +67,6 @@
 <div align="center">
   
 <img src="https://ghchart.rshah.org/skyIshier" alt="贡献热力图" width="90%" />
-
-</div>
-
----
-
-### LeetCode 刷题数据
-
-<div align="center">
-  
-<img src="https://leetcard.jacoblin.cool/skyIshier?theme=dark&font=Baloo_2&animation=true&hide=ranking" alt="LeetCode Stats" />
 
 </div>
 
@@ -106,5 +99,14 @@
 
 </div>
 
+<!-- 深色模式提示 -->
+<div align="center">
+  <br/>
+  <sub>💡 提示：切换到 GitHub 深色模式可获得最佳视觉效果</sub>
+</div>
+
 <!-- 底部波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5F7A,100:0B3D5F&height=120&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A5F7A,100:0B3D5F&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5F7A,100:0B3D5F&height=120&section=footer" width="100%"/>
+</picture>
