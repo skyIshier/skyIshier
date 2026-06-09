@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2f5e,100:1b4f8a&height=200&section=header&text=Sky%20Shi%20Er&fontSize=45&fontColor=f0f8ff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2f5e,100:1b4f8a&height=200&section=header&text=sky-十二&fontSize=45&fontColor=f0f8ff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <div align="center">
   
